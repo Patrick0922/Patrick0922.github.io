@@ -1,4 +1,5 @@
 #Crpyography 9/21/2018
+
 Crpyography is difficult and it needs practice.
 We used code wheels that match up letters.
 I also learned that different codes with numbers are simple.
