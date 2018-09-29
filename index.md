@@ -1,3 +1,12 @@
+# Week 3 9/28/2018
+
+This week we started to use Visual Studio code and We got MSYS2 terminal.
+I learned that Visual code is 400 dollars and that visual studio code is free because of microsoft's sale style.
+I learned that we can link all of our projects over Visual studio code.
+I learned that we will get angry at eachother over these projects.
+Finally, I learned that we will be doing a project on how to make a survival guide for newboys for their first year.
+---
+
 # Crpyography 9/21/2018
 
 Crpyography is difficult and it needs practice.
