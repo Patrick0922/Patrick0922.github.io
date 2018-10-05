@@ -1,3 +1,12 @@
+# Git 10/5/2017
+
+This week we learned how to sync our git projects to the online coding application.
+We learn "Git pull" and "Git Push" so that you can put your stuff into the application and take the stuff you need to.
+I learned how to write a basic handbook over Git.
+I learend how to make someone mad, by changing their project to only bad dad jokes.
+Finally, I learned how to put a name for the update for my project, Git Commit -m"_____"
+---
+
 # Week 3 9/28/2018
 
 This week we started to use Visual Studio code and We got MSYS2 terminal.
