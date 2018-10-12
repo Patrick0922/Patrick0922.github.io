@@ -1,3 +1,11 @@
+# Markdown 10/12/2018
+This week we learned how to insert pictures into GIT.
+This week we also learned that we need to save before doing Git pull.
+I learned that we really didn't get angry at eachother like Mr Gold predicted.
+We also Had to deal with some people not knowing grammer or spelling.
+Finally I learend that we are going to be finishing the projects soon.
+
+
 # Git 10/5/2017
 
 This week we learned how to sync our git projects to the online coding application.
