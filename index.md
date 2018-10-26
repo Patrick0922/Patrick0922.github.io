@@ -2,7 +2,7 @@
 
 This week we learned that HTML Starts with the tag <HTML> and ends with </HTML>.
 I also learned that <li> is a list and to end the list it is </li>.
-I learned that you can put a picture in with <img src="________">.
+I learned that you can put a picture in with < img src="________">.
 I learned that we can do an poll on HTML.
 Finally I learned that HTML is not done on note pad like my last teacher made me do.
 
