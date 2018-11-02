@@ -1,3 +1,13 @@
+# Pizza Project 11/2/2018
+
+This week we were building a pizza website for who ever wanted it.
+I built in tags that allowed us to get names  and address to deliver pizza.
+I figured out how to add a multi selector option.
+I also figured out how to add pictures to everything.
+Finally I learned how to add a submit button to send the order.
+
+---
+
 # HTML 10/26/2018
 
 This week we learned that HTML Starts with the tag < HTML> and ends with < /HTML>.
