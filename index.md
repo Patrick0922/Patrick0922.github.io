@@ -1,3 +1,13 @@
+#CSS 11/9/2018
+
+I learned how to size pictures in CSS and on the HTML document.
+I learned how to set borders around the website.
+I learned how to set borders on the lines with titles and words.
+I also figured out how to set background colors.
+Finally I learned how to make squricles.
+
+---
+
 # Pizza Project 11/2/2018
 
 This week we were building a pizza website for who ever wanted it.
