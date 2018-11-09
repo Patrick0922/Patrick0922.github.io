@@ -1,4 +1,4 @@
-#CSS 11/9/2018
+# CSS 11/9/2018
 
 I learned how to size pictures in CSS and on the HTML document.
 I learned how to set borders around the website.
