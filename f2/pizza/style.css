@@ -1,0 +1,27 @@
+body{
+    background-color:tan;
+    color: green
+}
+
+img{
+height: 200px;
+width: 200px;
+}
+
+.squircle{
+    border-radius: 50px;
+    padding: 20px;
+}
+
+h3 {
+border-style:none;
+Border-bottom-style:double;
+border-width:20px;
+border-color:blue;
+}
+
+.pageMargin{
+border-style:double;
+border-width:20px;
+border-color:red
+}
