@@ -1,3 +1,13 @@
+# Game Site 11/16/2018
+
+I made a game website about arma 3, which is kind of difficult.
+I found out how to put a GIF on Visual Studio Code.
+I made a border on my website.
+I found out that I can type a paragraph fster than I ever though.
+Finally, I have put in a Squircle.
+
+---
+
 # CSS 11/9/2018
 
 I learned how to size pictures in CSS and on the HTML document.
