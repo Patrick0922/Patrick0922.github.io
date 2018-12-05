@@ -17,7 +17,7 @@ h3 {
 border-style:none;
 Border-bottom-style:double;
 border-width:20px;
-border-color:blue;
+border-color:rgb(255, 255, 255);
 }
 
 .pageMargin{
@@ -25,3 +25,4 @@ border-style:double;
 border-width:20px;
 border-color:red
 }
+
