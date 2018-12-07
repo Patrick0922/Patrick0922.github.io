@@ -1,3 +1,13 @@
+# Million Dollar Homepage 12/7/2018
+
+I Had to build a website that I had to make into a flag or a color.
+I learned how to put the boxes together in a single row.
+I learned how to make sure it all stays together.
+I made a yugoslav flag for fun.
+I was almost done when the visual studio broke.
+
+---
+
 # Game Site 11/16/2018
 
 I made a game website about arma 3, which is kind of difficult.
