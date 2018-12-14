@@ -1,3 +1,13 @@
+# Javascript 12/14/2018
+
+I learned how to implement basic javascript into visual studio code.
+We also learned how to place music in a site.
+We learned how to add buttons with certain functions into the site.
+One of the buttons would take attendence the other could annoy.
+The button that took attendence listed names so once you imputed one, it would list it.
+
+---
+
 # Million Dollar Homepage 12/7/2018
 
 I Had to build a website that I had to make into a flag or a color.
